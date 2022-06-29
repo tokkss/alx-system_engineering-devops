@@ -6,3 +6,4 @@ mkdir - create new dir
 mv - move file
 rm - delete file
 rmdir - delete dir
+cd - - change directory to the previous
